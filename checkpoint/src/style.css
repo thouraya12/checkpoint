@@ -1,0 +1,13 @@
+.titleRed{
+    text-align: center;
+    color:rgb(138, 86, 138);
+   
+    width:900px;
+    height: 0px;
+}
+
+
+div{
+    margin-left:100px;
+    margin-right: auto; 
+}
